@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+httpx
+websocket_server
+numpy
+soundfile
