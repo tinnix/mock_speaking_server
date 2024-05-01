@@ -3,7 +3,7 @@
 ## 1. Installation
 Clone git repo and install requirements:
 ```
-git clone https://github.com/hidoba/mock_speaking_server
+git clone https://github.com/tinnix/mock_speaking_server
 cd mock_speaking_server
 pip install -r requirements.txt
 ```
